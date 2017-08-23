@@ -1,0 +1,15 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "like siri",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jack Weng",
+  "license": "ISC",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0"
+  }
+}
